@@ -1,5 +1,5 @@
 {
-    "text": "Click here & follow thry on twitter !",
+    "text": "<center><color=FF80FF>Click here & follow thry on twitter !</color></center>",
     "texture": {"name": "https://i.kym-cdn.com/entries/icons/facebook/000/037/349/Screenshot_14.jpg", "centerLabel": true, "height": 100},
     "action": "https://twitter.com/thryrallo"
 }
