@@ -1,0 +1,8 @@
+{
+	first_party:[
+		{id:"urp",url:"https://raw.githubusercontent.com/Thryrallo/unity_rich_presence/master/module.json"},
+		{id:"vrcas",url:"https://raw.githubusercontent.com/Thryrallo/ThryVRCTools/master/AccountSwitcher/module.json"},
+		{id:"aviEval",url:"https://raw.githubusercontent.com/Thryrallo/VRCAvatarTools/master/module.json"}],
+	third_party:[
+		{id:"PumkinsAvatarTools",author:"Pumkin#2020",url:"https://raw.githubusercontent.com/rurre/PumkinsAvatarTools/master/thry_module_manifest.json"}]
+}
