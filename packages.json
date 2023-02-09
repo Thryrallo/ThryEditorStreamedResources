@@ -1,0 +1,5 @@
+{"first_party":[
+  {"packageId":"", "git":"https://github.com/Thryrallo/VRC-Avatar-Performance-Tools", "author": "Thryrallo", "name": "Avatar Performance Tools", "description": "Shows VRAM and more performance metrics"}
+ ],
+ "third_party":[]
+}
