@@ -2,8 +2,7 @@
   {"type": "UPM", "packageId":"de.thryrallo.vrc.avatar-performance-tools", "git":"https://github.com/Thryrallo/VRC-Avatar-Performance-Tools", "author": "Thryrallo", "name": "Avatar Performance Tools", "description": "Shows VRAM and more performance metrics"}
  ],
  "third_party_curated":[
-   {"type": "UNITYPACKAGE", "guid": "ac6e2af4678227940967874f69d11555", "git":"https://github.com/rurre/PumkinsAvatarTools", "author": "Pumkin", "name": "Pumkin's Avatar Tools", "description": "An editor script that adds tools to help you setup avatars faster and easier. It includes a component copier that makes it a lot easier to reimport your avatars, and tools to make your thumbnails nicer."},
-   {"type": "VPM", "packageId": "com.llealloo.audiolink", "git":"https://github.com/llealloo/vrc-udon-audio-link", "unitypackageRegex": "com.llealloo.audiolink-(\d+\.?)+\.unitypackage", "upmInstallFromUnitypackage": true, "author": "llealloo", "name": "Audiolink", "description": "AudioLink."}
+   {"type": "UNITYPACKAGE", "guid": "ac6e2af4678227940967874f69d11555", "git":"https://github.com/rurre/PumkinsAvatarTools", "author": "Pumkin", "name": "Pumkin's Avatar Tools", "description": "An editor script that adds tools to help you setup avatars faster and easier. It includes a component copier that makes it a lot easier to reimport your avatars, and tools to make your thumbnails nicer."}
  ],
  "third_party_vrcprefabs":[
 {"type": "UNITYPACKAGE", "guid": "70dbe5cc6e3c4674685ce3933c06f3aa", "name": "Among Us Follower", "author": "hfcRed", "git": "https://github.com/hfcRed/Among-Us-Follower", "description": "A very simple, one step set up, self contained crewmate follower."},
