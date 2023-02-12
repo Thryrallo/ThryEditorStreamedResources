@@ -3,6 +3,6 @@
  ],
  "third_party":[
    {"isUPM": false, "guid": "ac6e2af4678227940967874f69d11555", "git":"https://github.com/rurre/PumkinsAvatarTools", "author": "Pumkin", "name": "Pumkin's Avatar Tools", "description": "An editor script that adds tools to help you setup avatars faster and easier. It includes a component copier that makes it a lot easier to reimport your avatars, and tools to make your thumbnails nicer."},
-   {"isUPM": false, "guid": "c3c6f7cc87780604db8a37ad4a5ffdab", "git":"https://github.com/llealloo/vrc-udon-audio-link", "unitypackageRegex": "AudioLink_(\d+\.?)+_minimal\.unitypackage", "author": "llealloo", "name": "Audiolink Minimal", "description": "Minimal Version of AudioLink to test avatars in Editor."}
+   {"isUPM": true, "packageId": "com.llealloo.audiolink", "git":"https://github.com/llealloo/vrc-udon-audio-link", "author": "llealloo", "name": "Audiolink", "description": "AudioLink."}
  ]
 }
