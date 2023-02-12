@@ -2,6 +2,6 @@
   {"isUPM": true, "packageId":"de.thryrallo.vrc.avatar-performance-tools", "git":"https://github.com/Thryrallo/VRC-Avatar-Performance-Tools.git", "author": "Thryrallo", "name": "Avatar Performance Tools", "description": "Shows VRAM and more performance metrics"}
  ],
  "third_party":[
-   {"isUPM": false, "classname": "Pumkin.AvatarTools.PumkinsAvatarTools", "git":"https://github.com/rurre/PumkinsAvatarTools/releases/latest", "author": "Pumkin", "name": "Pumkin's Avatar Tools", "description": "An editor script that adds tools to help you setup avatars faster and easier.\nIt includes a component copier that makes it a lot easier to reimport your avatars, and tools to make your thumbnails nicer."}
+   {"isUPM": false, "classname": "Pumkin.AvatarTools.PumkinsAvatarTools", "git":"https://github.com/rurre/PumkinsAvatarTools", "author": "Pumkin", "name": "Pumkin's Avatar Tools", "description": "An editor script that adds tools to help you setup avatars faster and easier.\nIt includes a component copier that makes it a lot easier to reimport your avatars, and tools to make your thumbnails nicer."}
  ]
 }
